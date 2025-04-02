@@ -2991,48 +2991,48 @@ document.addEventListener('DOMContentLoaded', function() {
 							if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
 								
 								const basicDiscountDiv = document.getElementById('basicDiscountDiv');
-								basicDiscountDiv.style.display = 'block';
+							//	basicDiscountDiv.style.display = 'block';
 								const onceDiscountDiv = document.getElementById('onceDiscountDiv');
-								onceDiscountDiv.style.display = 'block';
+							//	onceDiscountDiv.style.display = 'block';
 								const premiumDiscountDiv = document.getElementById('premiumDiscountDiv');
-								premiumDiscountDiv.style.display = 'block';
+							//	premiumDiscountDiv.style.display = 'block';
 								const advancedDiscountDiv = document.getElementById('advancedDiscountDiv');		
-								advancedDiscountDiv.style.display = 'block';	
+							//	advancedDiscountDiv.style.display = 'block';	
 								const eliteDiscountDiv = document.getElementById('eliteDiscountDiv');
-								eliteDiscountDiv.style.display = 'block';
+							//	eliteDiscountDiv.style.display = 'block';
 								const apexDiscountDiv = document.getElementById('apexDiscountDiv');
-								apexDiscountDiv.style.display = 'block';
+							//	apexDiscountDiv.style.display = 'block';
 								
 
 								const onceOffPackage = document.getElementById('onceOffPackage');
-								onceOffPackage.textContent = 'R360'; // or button.innerHTML = 'Submit';
-								const onceDiscount = document.getElementById('onceDiscount');
-								onceDiscount.textContent = 'R400';
+								onceOffPackage.textContent = 'R450'; // or button.innerHTML = 'Submit';
+								/*const onceDiscount = document.getElementById('onceDiscount');
+								onceDiscount.textContent = 'R400';*/
 
 								const basicPackage = document.getElementById('basicPackage');
-								basicPackage.textContent = 'R1395'; // or button.innerHTML = 'Submit';
-								const basicDiscount = document.getElementById('basicDiscount');
-								basicDiscount.textContent = 'R1550';
+								basicPackage.textContent = '1755'; // or button.innerHTML = 'Submit';
+								/*const basicDiscount = document.getElementById('basicDiscount');
+								basicDiscount.textContent = 'R1550';*/
 
 								const premiumPackage = document.getElementById('premiumPackage');
-								premiumPackage.textContent = 'R2790'; // or button.innerHTML = 'Submit';
-								const premiumDiscount = document.getElementById('premiumDiscount');
-								premiumDiscount.textContent = 'R3100';
+								premiumPackage.textContent = 'R3420'; // or button.innerHTML = 'Submit';
+								/*const premiumDiscount = document.getElementById('premiumDiscount');
+								premiumDiscount.textContent = 'R3100';*/
 
 								const advancedPackage = document.getElementById('advancedPackage');
-								advancedPackage.textContent = 'R4185'; // or button.innerHTML = 'Submit';
-								const advancedDiscount = document.getElementById('advancedDiscount');
-							    advancedDiscount.textContent = 'R4650';
+								advancedPackage.textContent = 'R4995'; // or button.innerHTML = 'Submit';
+								/*const advancedDiscount = document.getElementById('advancedDiscount');
+							    advancedDiscount.textContent = 'R4650';*/
 								
 								const elitePackage = document.getElementById('elitePackage');
-								elitePackage.textContent = 'R5580'; // or button.innerHTML = 'Submit';
-								const eliteDiscount = document.getElementById('eliteDiscount');
-								eliteDiscount.textContent = 'R6200';
+								elitePackage.textContent = 'R6480'; // or button.innerHTML = 'Submit';
+								/*const eliteDiscount = document.getElementById('eliteDiscount');
+								eliteDiscount.textContent = 'R6200';*/
 								
 								const apexPackage = document.getElementById('apexPackage');
-								apexPackage.textContent = 'R6975'; // or button.innerHTML = 'Submit';
-								const apexDiscount = document.getElementById('apexDiscount');
-								apexDiscount.textContent = 'R7750';
+								apexPackage.textContent = 'R7875'; // or button.innerHTML = 'Submit';
+								/*const apexDiscount = document.getElementById('apexDiscount');
+								apexDiscount.textContent = 'R7750';*/
 								
 							}
 
@@ -3115,48 +3115,48 @@ document.addEventListener('DOMContentLoaded', function() {
 										if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
 											
 											const basicDiscountDiv = document.getElementById('basicDiscountDiv');
-											basicDiscountDiv.style.display = 'block';
+											//basicDiscountDiv.style.display = 'block';
 											const onceDiscountDiv = document.getElementById('onceDiscountDiv');
-											onceDiscountDiv.style.display = 'block';
+											//onceDiscountDiv.style.display = 'block';
 											const premiumDiscountDiv = document.getElementById('premiumDiscountDiv');
-											premiumDiscountDiv.style.display = 'block';
+											//premiumDiscountDiv.style.display = 'block';
 											const advancedDiscountDiv = document.getElementById('advancedDiscountDiv');		
-											advancedDiscountDiv.style.display = 'block';	
+											//advancedDiscountDiv.style.display = 'block';	
 											const eliteDiscountDiv = document.getElementById('eliteDiscountDiv');
-											eliteDiscountDiv.style.display = 'block';
+											//eliteDiscountDiv.style.display = 'block';
 											const apexDiscountDiv = document.getElementById('apexDiscountDiv');
-											apexDiscountDiv.style.display = 'block';
+											//apexDiscountDiv.style.display = 'block';
 											
 									
 										const onceOffPackage = document.getElementById('onceOffPackage');
-										onceOffPackage.textContent = 'R495'; // or button.innerHTML = 'Submit';
-										const onceDiscount = document.getElementById('onceDiscount');
-									    onceDiscount.textContent = 'R550';
+										onceOffPackage.textContent = 'R600'; // or button.innerHTML = 'Submit';
+										/*const onceDiscount = document.getElementById('onceDiscount');
+									    onceDiscount.textContent = 'R550';*/
 									
 										const basicPackage = document.getElementById('basicPackage');
-										basicPackage.textContent = 'R1935'; // or button.innerHTML = 'Submit';
-										const basicDiscount = document.getElementById('basicDiscount');
-										basicDiscount.textContent = 'R2150';
+										basicPackage.textContent = 'R2340'; // or button.innerHTML = 'Submit';
+										/*const basicDiscount = document.getElementById('basicDiscount');
+										basicDiscount.textContent = 'R2150';*/
 									
 										const premiumPackage = document.getElementById('premiumPackage');
-										premiumPackage.textContent = 'R3870'; // or button.innerHTML = 'Submit';
-										const premiumDiscount = document.getElementById('premiumDiscount');
-										premiumDiscount.textContent = 'R4300';
+										premiumPackage.textContent = 'R4560'; // or button.innerHTML = 'Submit';
+										/*const premiumDiscount = document.getElementById('premiumDiscount');
+										premiumDiscount.textContent = 'R4300';*/
 									
 										const advancedPackage = document.getElementById('advancedPackage');
-										advancedPackage.textContent = 'R5715'; // or button.innerHTML = 'Submit';
-										const advancedDiscount = document.getElementById('advancedDiscount');
-										advancedDiscount.textContent = 'R6350';
+										advancedPackage.textContent = 'R6660'; // or button.innerHTML = 'Submit';
+										/*const advancedDiscount = document.getElementById('advancedDiscount');
+										advancedDiscount.textContent = 'R6350';*/
 									
 										const elitePackage = document.getElementById('elitePackage');
-										elitePackage.textContent = 'R7650'; // or button.innerHTML = 'Submit';
-										const eliteDiscount = document.getElementById('eliteDiscount');
-										eliteDiscount.textContent = 'R8500';
+										elitePackage.textContent = 'R8640'; // or button.innerHTML = 'Submit';
+										/*const eliteDiscount = document.getElementById('eliteDiscount');
+										eliteDiscount.textContent = 'R8500';*/
 										
 										const apexPackage = document.getElementById('apexPackage');
-										apexPackage.textContent = 'R9558'; // or button.innerHTML = 'Submit';
-										const apexDiscount = document.getElementById('apexDiscount');
-										apexDiscount.textContent = 'R10620';
+										apexPackage.textContent = 'R10500'; // or button.innerHTML = 'Submit';
+										/*const apexDiscount = document.getElementById('apexDiscount');
+										apexDiscount.textContent = 'R10620';*/
 										
 									
 											}
@@ -3989,7 +3989,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 								if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
 
-									amountTopay = '360'; // amount to pay;
+									amountTopay = '450'; // amount to pay;
 
 								}
 
@@ -4011,7 +4011,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 									   else{
 										if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
 										
-											amountTopay = '495'; // amount to pay;
+											amountTopay = '600'; // amount to pay;
 										
 										}
 										
@@ -4080,7 +4080,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 								if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
 
-									amountTopay = '1395'; // or button.innerHTML = 'Submit';
+									amountTopay = '1755'; // or button.innerHTML = 'Submit';
 
 								}
 								else {
@@ -4099,7 +4099,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 										else {
 										
 											if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
-												amountTopay = '1935'; // amount to pay;
+												amountTopay = '2340'; // amount to pay;
 											}
 											
 											}
@@ -4160,7 +4160,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 								if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
 
-									amountTopay = '2790'; // amount to pay;
+									amountTopay = '3420'; // amount to pay;
 
 								}
 								else {
@@ -4177,7 +4177,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 										else {
 										
 											if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
-												amountTopay = '3870'; // amount to pay;
+												amountTopay = '4560'; // amount to pay;
 											}
 											
 											}
@@ -4235,7 +4235,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 							else {
 								if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
-									amountTopay = '4185'; // amount to pay;
+									amountTopay = '4995'; // amount to pay;
 								}
 								else {
 
@@ -4251,7 +4251,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 										else {
 										
 											if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
-												amountTopay = '5715'; // amount to pay;
+												amountTopay = '6660'; // amount to pay;
 											}
 											
 											}
@@ -4311,7 +4311,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 							else {
 
 								if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
-									amountTopay = '5580'; // or button.innerHTML = 'Submit';
+									amountTopay = '6480'; // or button.innerHTML = 'Submit';
 
 								}
 								else {
@@ -4329,7 +4329,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 										else {
 										
 											if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
-												amountTopay = '7650'; // or button.innerHTML = 'Submit';
+												amountTopay = '8640'; // or button.innerHTML = 'Submit';
 										
 											}
 										}
@@ -5533,7 +5533,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 						
 												else {
 													if (ghg === "In Person" && (syllabusId === "IEB" || syllabusId === "CAPs")) {
-														amountTopay = '6975'; // amount to pay;
+														amountTopay = '7875'; // amount to pay;
 													}
 													else {
 						
@@ -5549,7 +5549,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 															else {
 															
 																if (ghg === "In Person" && (syllabusId === "Cambridge" || syllabusId === "Pearson Edexcel")) {
-																	amountTopay = '9558'; // amount to pay;
+																	amountTopay = '10500'; // amount to pay;
 																}
 																
 																}
